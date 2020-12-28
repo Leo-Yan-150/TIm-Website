@@ -91,3 +91,24 @@ cursor:pointer;
 #HelloTag{
 font-family: 'IBM Plex Sans', sans-serif;
 }
+html{
+scroll-behavior:smooth;
+}
+a{
+text-decoration:none;
+}
+.article:hover{
+color:firebrick;
+}
+#videos{
+background:linear-gradient(#5dc926 0%,#12ff81 100%);
+margin-top:-35px;
+}
+#work{
+background:linear-gradient(#12ff81 0%, #12e7ff 100%);
+margin-top:-35px;
+}
+#writings{
+background:linear-gradient(#12e7ff 0%, #f5b8f5 100%);
+margin-top:-35px;
+}
